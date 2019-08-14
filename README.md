@@ -16,3 +16,5 @@ Software\Classes\ms-settings\shell\open\command\DelegateExecute
 ```
 
 With that in mind, an attacker could change those registry keys and delegate any kind of code to be executed on the users’ behalf without any consent.
+
+Original Source : https://dzone.com/articles/bypassing-windows-10-uac-withnbsppython
